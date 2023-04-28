@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @youssefkhemiri
 - 👨‍💻: I am a computer science student, I’m interested in Artificial intelligence 
-- 🌱 A growing data scientist
+- 🌱 A growing data scientist | Machine Learning engineer
 - 📫 You can contact me on youssefkhemiri@ieee.org
 - 🟦: Or reach me on:   <a href="https://www.linkedin.com/in/youssef-khemiri/"> LinkedIn</a> 
 
