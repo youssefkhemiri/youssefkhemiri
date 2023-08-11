@@ -30,7 +30,7 @@
 <!-- ![hello-world](https://user-images.githubusercontent.com/101359851/198912581-5011f4b3-f209-4a98-a2fb-f39f6f2b4ecd.png)
  -->
  
- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!;Machine+are+learning+and+so+am+I)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!;Machines+are+learning+and+so+am+I)](https://git.io/typing-svg)
 
 
 
