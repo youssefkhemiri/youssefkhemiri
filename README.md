@@ -2,7 +2,7 @@
 - 👨‍💻: I am a computer science student, I’m interested in Artificial intelligence 
 - 🌱 A growing data scientist | Machine Learning engineer
 - 📫 You can contact me on youssefkhemiri@ieee.org
-- 🟦: Connect with me:   <a href="https://www.linkedin.com/in/youssef-khemiri/"> LinkedIn</a> 
+- 🟦: Connect with me:   <a href="https://www.linkedin.com/in/youssef-khemiri/" target="_blank"> LinkedIn</a> 
 
 <!-- 
 <div id="badges">
