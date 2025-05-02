@@ -2,13 +2,10 @@
 - 👨‍💻: I’m interested in Artificial intelligence 
 - 🌱 A growing data scientist | Machine Learning engineer
 - 📫 You can contact me on youssefkhemiri@ieee.org
-- 🟦: Connect with me:   <a href="https://www.linkedin.com/in/youssef-khemiri/"> LinkedIn</a> 
-<h1>
-  
-<!-- Show this only when you're ranked -->
-[![committers.top badge](https://user-badge.committers.top/tunisia/youssefkhemiri.svg?refresh=1)](https://committers.top/tunisia)
+- 🟦: Connect with me:   <a href="https://www.linkedin.com/in/youssef-khemiri/"> LinkedIn</a>
 
-</h1>
+
+
 <!-- 
 <div id="badges">
   <a href="your-linkedin-URL">
