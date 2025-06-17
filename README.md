@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Youssef Khemiri
 - 👨‍💻: I’m interested in Artificial intelligence 
-- 🌱 A growing data scientist | Machine Learning engineer
+- 🌱 Data scientist | Machine Learning engineer
 - 📫 You can contact me on youssefkhemiri@ieee.org
 - 🟦: Connect with me:   <a href="https://www.linkedin.com/in/youssef-khemiri/"> LinkedIn</a>
 
