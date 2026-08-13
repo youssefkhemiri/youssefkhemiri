@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Youssef Khemiri
-- 👨‍💻: AI/ML engineer | Wizard 
+- 👨‍💻: AI/ML engineer | Software & Automation Wizard 🪄
 - 📫 You can contact me on youssefkhemiri@ieee.org
 - 🟦: Connect with me:   <a href="https://www.linkedin.com/in/youssef-khemiri/"> LinkedIn</a>
 
